@@ -307,14 +307,7 @@ The test suite includes:
 
 All tests use a temporary SQLite database that is cleaned up after each test run.
 
-## License
-
-This project is open source and available under the MIT License.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Author
 
-Your Name - [Your GitHub Profile]
+Your Name - (https://github.com/somuuvg100)
